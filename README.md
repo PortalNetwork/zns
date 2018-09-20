@@ -1,4 +1,4 @@
-![Zilliqa Name Service](./assets/title.png)
+![Zilliqa Name Service](./assets/title.jpg)
 
 > 📖🔍 Documents of the Zilliqa Name Service.
 
