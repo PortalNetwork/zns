@@ -24,7 +24,12 @@ ZNS is the Zilliqa Name Service, a distributed, open, and extensible naming syst
 - [Introduction](./docs/INTRODUCTION.md)
 
 ## ⌨️ Smart Contract Language
-- [Scilla](https://scilla-lang.org/)
+
+<p align="left">
+  <a href="https://scilla-lang.org/"><img src="https://github.com/Zilliqa/scilla/blob/master/imgs/scilla-logo-color.jpg" width="200" height="200"></a>
+</p>
+
+- [Scilla Document](https://scilla.readthedocs.io/en/latest/)
 
 ## 📣 Contributing
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to help out.
