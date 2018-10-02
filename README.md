@@ -30,7 +30,7 @@ ZNS is the Zilliqa Name Service, a distributed, open, and extensible naming syst
 
 - [Scilla Document](https://scilla.readthedocs.io/en/latest/)
 
-## Introduction
+## 📃 Introduction
 
 ### Network Sharding
 Zilliqa dynamically splits the network of blockchain nodes into different subgroups, called shards, with each shard formed to process and reach consensus on a subset of transactions. This way, disjoint subsets of transactions can be processed in parallel, and significantly boost the transaction throughput by orders of magnitude. Eventually, such transactions are merged into a new block that is committed to the blockchain.
