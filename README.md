@@ -41,25 +41,35 @@ Zilliqa Name Service (ZNS) governs by three smart contract components, registrar
 ![ZNS Stack](./assets/stacks/z-stack.png)
 
 ### State Layer
+Zilliqa servers as the fundamental blockchain state layer. It stores each of the transactions and record the related data transformation. This layer give the participants the ability to control and own their state and data. ZNS stores the data and state in the state layer.
+
 ![ZNS State Layer](./assets/stacks/z-01.png)
 
 ### Computation Layer
+Developers can utlize Scilla to implement their business logic to the smart contract. The paradigms of functional programming and formal verification of Scilla enhance the security of smart contracts.
+
 ![ZNS Computation Layer](./assets/stacks/z-02.png)
 
 ### Component Layer
+The design of digital assets can have more functions through combing the State Layer and Computation Layer, such as: crypto assets, and identities. Those programmable assets has many more potential usages and sub-economies within. 
+
 ![ZNS Component Layer](./assets/stacks/z-03.png)
 
 ### Scalability / Transfer Layer
+The sharding mechnaism of Zilliqa provides high throughput and eliminates the obstables about network congestion, high transaction fees or related security issues.
 ![ZNS Transfer Layer](./assets/stacks/z-04.png)
 
 ### Protocol Layer
+The BNS protocol is a standard which can make the Zilliqa Name Service more efficient. The protocol essentially for the user control layer and the application layer which can let more applications and services can be built on top of it.
 ![ZNS Protocol Layer1](./assets/stacks/z-05.png)
 
 ### User Control Layer
+This layer is in charge of managing a user’s private keys and the interaction with the State Layer. Before the Zilliqa wallet published, the users should use command line interface (CLI) to talk directly with the computation layer. ZNS plays an crucial rule to transfer hashes to human-meaningful names. Zilliqa wallet and browser extension can resolve ZNS to wallet address, contract address and IPFS hash.
 ![ZNS User Control Layer1](./assets/stacks/z-06.png)
 ![ZNS User Control Layer2](./assets/stacks/z-07.png)
 
 ### Application Layer
+The above features provided by different layers enables more use cases. For example, developers can utilize the tech stacks to build a decentralized website which can interact with the Zilliqa and hosted on IPFS. Users can view the decentralized resources through simply typing yourwebsite.zil on the domain url bar with our further enhancement in browser extension.
 ![ZNS Application Layer](./assets/stacks/z-08.png)
 
 ## 📃 Introduction
