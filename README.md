@@ -31,6 +31,8 @@ ZNS is the Zilliqa Name Service, a distributed, open, and extensible naming syst
 - [Scilla Document](https://scilla.readthedocs.io/en/latest/)
 
 ## 📝 Zilliqa in Web3.0 
+ZNS plays an connecting and entry layer in Web3.0 services. It connects with Zilliqa wallet, blockchain server, decentralized content resources, and decentralized database.
+
 ![zilliqa_web3.png](./assets/zilliqa_web3.png)
 
 ## 📃 Introduction
