@@ -35,6 +35,32 @@ ZNS plays an connecting and entry layer in Web3.0 services. It connects with Zil
 
 ![zilliqa_web3.png](./assets/zilliqa_web3.png)
 
+## 🗂️ ZNS Technical Stack
+
+![ZNS Stack](./assets/stacks/z-stack.png)
+
+### State Layer
+![ZNS State Layer](./assets/stacks/z-01.png)
+
+### Computation Layer
+![ZNS Computation Layer](./assets/stacks/z-02.png)
+
+### Component Layer
+![ZNS Component Layer](./assets/stacks/z-03.png)
+
+### Scalability / Transfer Layer
+![ZNS Transfer Layer](./assets/stacks/z-04.png)
+
+### Protocol Layer
+![ZNS Protocol Layer1](./assets/stacks/z-05.png)
+
+### User Control Layer
+![ZNS User Control Layer1](./assets/stacks/z-06.png)
+![ZNS User Control Layer2](./assets/stacks/z-07.png)
+
+### Application Layer
+![ZNS Application Layer](./assets/stacks/z-08.png)
+
 ## 📃 Introduction
 
 ### Network Sharding
