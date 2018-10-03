@@ -30,6 +30,9 @@ ZNS is the Zilliqa Name Service, a distributed, open, and extensible naming syst
 
 - [Scilla Document](https://scilla.readthedocs.io/en/latest/)
 
+## 📝 Zilliqa in Web3.0 
+![zilliqa_web3.png](./assets/zilliqa_web3.png)
+
 ## 📃 Introduction
 
 ### Network Sharding
