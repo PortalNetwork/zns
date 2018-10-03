@@ -36,6 +36,7 @@ ZNS plays an connecting and entry layer in Web3.0 services. It connects with Zil
 ![zilliqa_web3.png](./assets/zilliqa_web3.png)
 
 ## 🗂️ ZNS Technical Stack
+Zilliqa Name Service (ZNS) governs by three smart contract components, registrar, registry, and resolver. The three smart contracts contain the core logic for the whole Zilliqa Name System implementation which is from the ownership managment for a domain, how to securely save the data, to the global resolving layer. The ZNS gloabl resolving layer can connect different tech stacks and enhances the usability for different infrastructures.
 
 ![ZNS Stack](./assets/stacks/z-stack.png)
 
