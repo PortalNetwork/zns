@@ -2,6 +2,8 @@
 
 > 📖🔍 Documents of the Zilliqa Name Service.
 
+# Overview
+
 ## 💡 What is Zilliqa?
 Zilliqa is the world's first high-throughput public blockchain platform - designed to scale to thousands ​of transactions per second.
 
