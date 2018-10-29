@@ -94,6 +94,8 @@ For better scalability, Zilliqa makes two conscious choices in the design of tra
 ### Computational Sharding & Sharding-Friendly Smart Contract Language
 With scalability as the main goal of Zilliqa, it proposes a new smart contract language Scilla that scales much better for a multitude of applications that range from automated auctions, shared economy to financial modelling. Beyond verifiability of security and correctness properties, Zilliqa’s smart contract language will run efficiently on a blockchain architecture with sharding. Moreover, it will enable sharding of computational resources in the blockchain network via an overlay above the consensus process, i.e., computational sharding. Computational sharding allows users of Zilliqa and applications running on Zilliqa to specify the sizes of consensus groups to compute for each of the subtasks. Each consensus group will then be tasked to compute the same subtask, and produce the results. The user specifies the condition on acceptance of the results, e.g., all in the consensus group must produce the same results, or 3/4 of them must produce the same results, etc.
 
+# Introduction
+
 ## Zilliqa Wallet
 
 [Wallet](https://wallet-scilla.zilliqa.com/home) that is connected to a wallet and Zilliqa testnet.
