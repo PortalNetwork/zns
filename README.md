@@ -33,7 +33,7 @@ ZNS is the Zilliqa Name Service, a distributed, open, and extensible naming syst
 ## 📝 Zilliqa in Web3.0 
 ZNS plays an connecting and entry layer in Web3.0 services. It connects with Zilliqa wallet, blockchain server, decentralized content resources, and decentralized database.
 
-![zilliqa_web3.png](./assets/zilliqa_web3.png)
+![zilliqa_web3.png](./assets/web3.png)
 
 ## 🗂️ ZNS Technical Stack
 Zilliqa Name Service (ZNS) governs by three smart contract components, registrar, registry, and resolver. The three smart contracts contain the core logic for the whole Zilliqa Name System implementation which is from the ownership managment for a domain, how to securely save the data, to the global resolving layer. The ZNS gloabl resolving layer can connect different tech stacks and enhances the usability for different infrastructures.
